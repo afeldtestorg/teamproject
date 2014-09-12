@@ -1,4 +1,4 @@
-itp teamproject
+ITP Team Project
 ===========
 
 
